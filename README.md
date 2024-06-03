@@ -15,6 +15,8 @@ I videogames possono essere recensiti dai giocatori, i quali oltre al titolo e a
 
 Ogni anno vengono votati i migliori videogiochi, che possono così vincere diversi premi (gioco dell'anno, miglior narrativa, miglior colonna sonora, miglior gioco indipendente, gioco più atteso, ...)
 
+## Diagramma
+
 ![Diagramma con Drawio](./diagrams/diagrams-drawio.png)
 ---
 ![Diagramma con PHPMyAdmin](./diagrams/diagrams-phpMyAdmin.png)
