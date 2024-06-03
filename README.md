@@ -14,3 +14,7 @@ Ogni torneo è caratterizzato da un nome, l'anno e la città in cui si svolge. I
 I videogames possono essere recensiti dai giocatori, i quali oltre al titolo e al testo, possono valutare i videogame con un rating da 1 a 5.
 
 Ogni anno vengono votati i migliori videogiochi, che possono così vincere diversi premi (gioco dell'anno, miglior narrativa, miglior colonna sonora, miglior gioco indipendente, gioco più atteso, ...)
+
+![Diagramma con Drawio](./diagrams/diagrams-drawio.png)
+---
+![Diagramma con PHPMyAdmin](./diagrams/diagrams-phpMyAdmin.png)
